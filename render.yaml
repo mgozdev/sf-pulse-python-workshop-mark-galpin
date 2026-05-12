@@ -3,7 +3,7 @@ projects:
     environments:
       - name: production
         databases:
-          - name: sf-pulse-python-db
+          - name: sf-pulse-python-mark-galpin
             databaseName: sfpulse
             user: sfpulse
             plan: basic-256mb
